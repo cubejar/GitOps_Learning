@@ -1,5 +1,5 @@
 # Positional Arguments
-# Sum takes a tuple here
+# It takes a tuple
 
 def positional_arguments(arg1, arg2, points=10):
     return sum((arg1, arg2, points)) * 0.05
